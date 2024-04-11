@@ -1,7 +1,11 @@
 The microcontrollers needed:
 1.  Arduino Nano 33 BLE Sense
 2.  NodeMCU ESP32
-3.  Raspberry Pi Pico 
+3.  Raspberry Pi Pico
+
+Dataset used:
+(2018) Speech commands dataset version 2. [Online]. Available:
+http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
 
 
 Do the following steps to run the keyword spotting on the microcontrollers:
